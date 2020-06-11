@@ -1,2 +1,2 @@
-# function-project-algorithms
-bounceoff function
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
